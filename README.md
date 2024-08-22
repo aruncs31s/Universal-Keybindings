@@ -3,6 +3,14 @@
 All of my keybindings set to universal from i3 to mate
 [Neovim](neovim.md)
 
+## Universal
+
+Mod -> `super` or `windows key` , mod4 in the case of `i3` and `alt` in the case of `tmux` and `neovim`
+| Combination | Use | Used By |
+| ----------- | ------- | ------- |
+| Mod + w | Item2.1 | -- |
+| Item1.2 | Item2.2 | -- |
+
 ## Neovim
 
 ### Telescope
